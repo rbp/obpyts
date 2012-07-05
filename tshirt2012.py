@@ -1,7 +1,4 @@
                              #/usr/bin/env python3
-'............';a,b,c,d,e=[],[],sum,"".join(l.strip()for l in """;'............'
-
-a,b,c,d,e=[],[],sum,''.join(filter(lambda ø:ø.strip(),"""
 
 
 
