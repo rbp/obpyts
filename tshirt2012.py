@@ -3,7 +3,11 @@
 
 a,b,c,d,e=[],[],sum,''.join(filter(lambda ø:ø.strip(),"""
 
-                          ..,;;:clllooooooollcc:;,..
+
+
+a,b,h,d,c,f=[],[],lambda j:(f(a)(d.index(j,c(b,24))),f(b)(a[-1]-c(b)),b[-1]),"".join("""
+
+                           .,;;:clløøøøøøøX;ø‘::’:,..
                        .,:llllllooooooooooooooooooddol;.
                      .:lllllllooooooooooooooooooddddddddc.
                     .clllc''’  ;ooooooøooooooodddddddddddd,
@@ -28,8 +32,8 @@ loooooooooooooodddddø,       ,,,,,,,,,,,,;;;;;;;;;;;;,,,,,,,;..................
 cooooooooooooooddddc,    ,,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,.....................‘‘
 ,oooooooooodddddddc    ,,,,,,,,:;;;;;;;;;;;;;;,,,,,,,,,,,........................,
 .loooooooodddddddd.   ,,,,,,;;;;;;;;;;;;;;;:,,,,,,,,,,,;........................‘,
- .oooooodddddddddl’   ,,,,,;;;;;;;;;;;;;;,,,,,,,,,,.............................‘,
- .looodddddddddddl   ,,,,;;;;;;;;;;;:,,,,,,,,,,,,,.............................,
+ .oooooodddddddddl’   ,,,,,;;;;;;;;;;;;;;,,,,,,,,,,;............................‘,
+ .looodddddddddddl   ,,,,;;;;;;;;;;;:,,,,,,,,,,,;..............................,
   'ldddddddddddddl   ,,,;;;;;;;;;;;;,,,,,,,,,;...............................‘‘
     'odddddddddddo   ,,,,,,,,,,,,...........................................‘
       ':cooddddddl   .....................................................‘
@@ -44,22 +48,8 @@ cooooooooooooooddddc,    ,,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,....................
                          ..............................
                              .......................
                                   ............
+  
+""".split()),sum,lambda a:a.append;e=d[8:23];print(''.join(chr(i[2])for i in map(h,e)))
 
-""")),'øøøøøøøX;ø‘::’:'
-print(
-    ''.join(
-        # switch X for l or i
-        chr(X[2]) for X in
-            [(
-                a.append(d.find(j, sum(b,1))),
-                b.append(a[i] - sum(b)),
-                b[i])
-             for i, j in
-             # was: enumerate(e)
-             zip(range(len(e)),e)
-             ]
-    )
-)
 #print(a)
 #print(b)
-print(list(zip(target, [ord(i) for i in target], b)))
