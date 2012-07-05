@@ -45,5 +45,3 @@ cooooooooooooooddddc,    ,,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,....................
   
 """.split()),sum,lambda a:a.append;e=d[8:23];print(''.join(chr(i[2])for i in map(h,e)))
 
-#print(a)
-#print(b)
