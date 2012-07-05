@@ -1,7 +1,4 @@
                              #/usr/bin/env python3
-
-
-
 a,b,h,d,c,f=[],[],lambda j:(f(a)(d.index(j,c(b,24))),f(b)(a[-1]-c(b)),b[-1]),"".join("""
 
                            .,;;:clløøøøøøøX;ø‘::’:,..
