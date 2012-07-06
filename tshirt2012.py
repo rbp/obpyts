@@ -1,5 +1,5 @@
-                             #/usr/bin/env python3
-X="".join;h,d,a,b,c,f=lambda j:(f(a)(d.index(j,c(b,24))),f(b)(a[-1]-c(b)),b[-1]),X("""
+                              #/usr/bin/env python3
+ף="".join;צ,ו,ם,י,ל,א=lambda j:(א(ם)(ו.index(j,ל(י,24))),א(י)(ם[-1]-ל(י)),י[-1]),ף("""
 
                            .,;;:clløøøøøøøX;ø‘::’:,..
                        .,:llllllooooooooooooooooooddol;.
@@ -43,5 +43,5 @@ cooooooooooooooddddc,    ,,,,,,,,,,;;;;;;;;;;;;,,,,,,,,,,,,,....................
                              .......................
                                   ............
   
-""".split()),[],[],sum,lambda a:a.append;e=d[8:23];print(X(chr(i[2])for i in map(h,e)))
+""".split()),[],[],sum,lambda a:a.append;e=ו[8:23];print(ף(chr(i[2])for i in map(צ,e)))
 
