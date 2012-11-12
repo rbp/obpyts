@@ -1,4 +1,4 @@
-                              #/usr/bin/env python3
+                             #!/usr/bin/env python3
 ף="".join;צ,ו,ם,י,ל,א=lambda j:(א(ם)(ו.index(j,ל(י,23))),א(י)(ם[-1]-ל(י)),י[-1]),ף("""
 
                            .,;;:clløøøøøøøX;ø‘::’:,..
